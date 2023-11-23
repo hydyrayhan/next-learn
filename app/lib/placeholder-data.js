@@ -70,6 +70,18 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: 'CC277535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Hydyr Ayhan',
+    email: 'hydyrowayhan7@gmail.com',
+    image_url: '/customers/balazs-orban.png',
+  },
+  {
+    id: 'CC271234-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Hydyr2 Ayhan2',
+    email: 'hydyrowayhan72@gmail.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
